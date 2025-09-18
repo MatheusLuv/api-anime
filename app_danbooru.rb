@@ -10,7 +10,7 @@ class DBConnector
       port: 5432,
       dbname: 'danbooru_demo',
       user: 'postgres',
-      password: '1234'
+      password: 'postgres'
     )
   end
 
